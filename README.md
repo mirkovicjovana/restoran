@@ -8,4 +8,4 @@ U fajlu Restoran.odt se nalazi tekstualni opis sistema uz modeliranje kroz dijag
 Implementacija se nalazi u folderu implementacija.zip.
 U fajlu restoran.sql je kod potreban za importovanje baze podataka u MySQL.
 
-Da bi se pokrenula aplikacija potrebno je da skinuti folder Restoran.tip i pokrenuti aplikaciju online na serveru koristeći XAMPP ili WampServer.
+Da bi se pokrenula aplikacija potrebno je da skinuti folder Restoran.zip i pokrenuti aplikaciju online na serveru koristeći XAMPP ili WampServer.
